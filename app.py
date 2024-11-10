@@ -43,4 +43,4 @@ async def compare_job_cv(job_descriptions: str = Form(...), cv_text: str = Form(
     
     return {"results": results}
 
-# Run the app with `uvicorn fastapi_app:app --reload`
+ 

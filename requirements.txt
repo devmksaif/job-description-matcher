@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+transformers
+scikit-learn
+peft
+streamlit
+git+https://github.com/abetlen/llama-cpp-python.git
